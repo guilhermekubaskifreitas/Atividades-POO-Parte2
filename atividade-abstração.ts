@@ -16,7 +16,8 @@ class Retangulo extends Forma {
      constructor(private raio: number){
      super()
      }
-     calcularArea(): number{
+     
+    calcularArea(): number{
        return (this.raio ** 2) * 3.14;
      }
    }
