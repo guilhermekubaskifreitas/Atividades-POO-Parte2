@@ -10,4 +10,4 @@
 
  📌 [atividade de abstração](https://github.com/guilhermekubaskifreitas/Atividades-POO-Parte2/blob/main/atividade-abstra%C3%A7%C3%A3o.ts)
 
-📌 [atividade integrando todos os pilares]
+ 📌 [atividade integrando todos os pilares](https://github.com/guilhermekubaskifreitas/Atividades-POO-Parte2/blob/main/atividade-geral.ts)
